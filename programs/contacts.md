@@ -3,7 +3,7 @@ it's a simple program that stores your contacts.
 there is no real use of this program, it's just fun to make it.
 
 ### UPDATES
-##### FIRST RELEASE
+##### FIRST RELEASEr
 <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 4em;">INSPIRATION DAY
 1. you can add new contact  
 2. sort all contacts
