@@ -4,8 +4,10 @@ there is no real use of this program, it's just fun to make it.
 
 ### UPDATES
 ##### FIRST RELEASE
+<span style="color:#fff; font-family: 'Bebas Neue'; font-size: 4em;">INSPIRATION DAY
 1. you can add new contact  
 2. sort all contacts
+</span>
 ##### UPDATE-22.02
 1. you can now delete unwanted contacts  
 2. now uses pickle to store your data in your storage  
