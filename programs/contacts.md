@@ -1,7 +1,7 @@
 # CONTACTS
 it's a simple program that stores your contacts.  
 there is no real use of this program, it's just fun to make it.  
-get it in python [repo](github.com/JymPatel/Python-FirstEdition/PyPrograms/contacts)
+get it in python [repo](https://github.com/JymPatel/Python-FirstEdition/tree/Main/PyPrograms/contacts)
 
 ### UPDATES
 
