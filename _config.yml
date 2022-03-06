@@ -2,3 +2,4 @@ theme: jekyll-theme-slate
 description: github pages
 github:
   is_project_page: false
+fontfamily: JetBrains Mono
