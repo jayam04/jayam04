@@ -1,6 +1,12 @@
 @font-face {
     font-family: JetBrains Mono;
-    src: url("../../files/fonts/JetBrainsMono.ttf");
+    src: url("../../files/fonts/JetBrainsMono.ttf") format('truetype');
     font-weight: bold;
     font-style: normal;
+}
+
+h1 {
+    font-family: JetBrains Mono, Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
 }
