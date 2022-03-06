@@ -8,4 +8,4 @@ mail me at jympatel@yahoo.com
 [CONTACTS](/data/programs/contacts.md)  
 
 ### BLOGS
-[Installing JetBrains Mono in VS Code](/data/blogs/Installing-JBMonoText-toVSCode.md)  
+[Installing JetBrains Mono in VS Code](/data/posts/Installing-JBMonoText-toVSCode.md)  
