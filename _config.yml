@@ -2,6 +2,3 @@ theme: jekyll-theme-cayman
 description: github pages
 github:
   is_project_page: false
-
-# Google Analytics
-google_analytics: UA-222142064-2
