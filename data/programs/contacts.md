@@ -2,7 +2,8 @@
 title: contacts.py
 description: it was fun!
 ---
-# CONTACTS
+
+### ABOUT
 it's a simple program that stores your contacts.  
 there is no real use of this program, it's just fun to make it.  
 get it in python [repo](https://github.com/JymPatel/Python-FirstEdition/tree/Main/PyPrograms/contacts)

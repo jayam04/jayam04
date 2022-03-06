@@ -1,4 +1,4 @@
-+Hey! I am @JymPatel, student of CS interested in Robotics too.  
+Hey! I am @JymPatel, student of CS interested in Robotics too.  
 I am here to learn and enjoy coding with everyone here.  
 mail me at jympatel@yahoo.com
 

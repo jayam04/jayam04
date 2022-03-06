@@ -1,7 +1,6 @@
 ---
 title: Installing JetBrains Mono Font in VS Code
 description: it's easy
-font-face: JetBrains Mono
 ---
 
 coming directly to the problem,  
