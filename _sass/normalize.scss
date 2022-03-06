@@ -6,8 +6,13 @@
  *    user zoom.
  */
 
+@font-face {
+  font-family: jetbrains-mono;
+  src: url(../assests/fonts/JetBrainsMono.ttf) format('truetype');
+}
+
 html {
-  font-family: sans-serif; /* 1 */
+  font-family: jetbrains-mono, 'jetbrains-mono'sans-serif; /* 1 */
   -ms-text-size-adjust: 100%; /* 2 */
   -webkit-text-size-adjust: 100%; /* 2 */
 }
