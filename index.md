@@ -7,5 +7,5 @@ mail me at jympatel@yahoo.com
 ### MAJOR PROJECTS
 [CONTACTS](/data/programs/contacts.md)  
 
-### BLOGS
+### POSTS
 [Installing JetBrains Mono Font in VS Code](/data/posts/Installing-JBMonoText-toVSCode.md)  
