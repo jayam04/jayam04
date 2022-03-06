@@ -1,3 +1,6 @@
+---
+description: it was fun!
+---
 # CONTACTS
 it's a simple program that stores your contacts.  
 there is no real use of this program, it's just fun to make it.  
