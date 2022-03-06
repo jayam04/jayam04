@@ -1,4 +1,5 @@
 ---
+title: contacts.py
 description: it was fun!
 ---
 # CONTACTS
@@ -25,4 +26,3 @@ get it in python [repo](https://github.com/JymPatel/Python-FirstEdition/tree/Mai
 
 ### CONTRIBUTORS
 it would like to thank [@bupboi1337](https://github.com/bupboi1337) for contributing ideas, look of code, and much more.. (including correction of grammetical mistakes)  
-[follow @bupboi1337 at github](https://github.com/bupboi1337)  
