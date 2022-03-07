@@ -7,7 +7,7 @@ Hey! I am @JymPatel, student of CS interested in Robotics too.
 I am here (GitHub) to learn and enjoy coding with everyone here.  
 mail me at jympatel@yahoo.com
 
-[![Jym's's GitHub stats](https://github-readme-stats.vercel.app/api?username=JymPatel&count_private=true&show_icons=true&icon_color=159957&title_color=159957&text_color=1e6bb8&border_color=1e6bb8&bg_color=0,b4cee7,b1dcc7,b1dcc7,b4cee7,b4cee7&font=https://github.com/JetBrains/JetBrainsMono/tree/master/fonts/ttf)](https://github.com/JymPatel/github-readme-stats)  
+[![Jym's's GitHub stats](https://github-readme-stats.vercel.app/api?username=JymPatel&count_private=true&show_icons=true&icon_color=159957&title_color=159957&text_color=1e6bb8&border_color=1e6bb8&border_radius=12&font=https://github.com/JetBrains/JetBrainsMono/tree/master/fonts/ttf)](https://github.com/JymPatel/github-readme-stats)  
 
 
 ### PROJECTS & POSTS
