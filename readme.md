@@ -2,5 +2,5 @@ Hey! I am @JymPatel, student of CS interested in Robotics too.
 I am here to learn and enjoy coding with everyone here.  
 mail me at jympatel@yahoo.com
 
-[![Jym's's GitHub stats](https://github-readme-stats.vercel.app/api?username=JymPatel)](https://github.com/JymPatel/github-readme-stats)
+[![Jym's's GitHub stats](https://github-readme-stats.vercel.app/api?username=JymPatel&show_icons=true&count_private=true)](https://github.com/JymPatel/github-readme-stats)
 
