@@ -11,8 +11,10 @@ mail me at jympatel@yahoo.com
 
 
 ### PROJECTS & POSTS
+
 #### [**view all projects**](/data/programs/programs.md)  
 1. [contacts.py](/data/programs/contacts.md)  
+
 #### [**view all posts**](/data/posts/posts.md)  
 1. [Installing JetBrains Mono Font in VS Code](/data/posts/Installing-JBMonoText-toVSCode.md)  
 2. [Intro to GitHub Pages](/data/posts/2022-03-06-gitpages.md)  
@@ -20,7 +22,8 @@ mail me at jympatel@yahoo.com
 
 
 ### THANKS
+
 thanks to JetBrains team for a very good [JetBrains Mono](https://www.jetbrains.com/lp/mono/#how-to-install) font with SIL Open Font License 1.1  
-also thanks to GitHub for [GitHub Pages](https://pages.github.com/)  
+also thanks to GitHub for [GitHub Pages](https://pages.github.com/) & contributors of [Cyman Theme](https://github.com/pages-themes/cayman) theme.  
   
 CHECK OUT [Installing JetBrains Mono Font in VS Code](/data/posts/Installing-JBMonoText-toVSCode.md), [Intro to GitHub Pages](/data/posts/2022-03-06-gitpages.md).  
