@@ -9,13 +9,11 @@ mail me at jympatel@yahoo.com
 
 [![Jym's's GitHub stats](https://github-readme-stats.vercel.app/api?username=JymPatel&count_private=true&show_icons=true&icon_color=159957&title_color=159957&text_color=1e6bb8&border_color=1e6bb8&font=https://github.com/JetBrains/JetBrainsMono/tree/master/fonts/ttf)](https://github.com/JymPatel/github-readme-stats)  
 
-### PROJECTS
-[**VIEW ALL PROJECTS HERE**](/data/programs/programs.md)  
+
+### PROJECTS & POSTS
+#### [**view all projects**](/data/programs/programs.md)  
 1. [contacts.py](/data/programs/contacts.md)  
-
-
-### POSTS
-[**VIEW ALL POSTS HERE**](/data/posts/posts.md)  
+#### [**view all posts**](/data/posts/posts.md)  
 1. [Installing JetBrains Mono Font in VS Code](/data/posts/Installing-JBMonoText-toVSCode.md)  
 2. [Intro to GitHub Pages](/data/posts/2022-03-06-gitpages.md)  
 3. [Using Google Analysis or Microsoft Clarity with GitHub Pages](/data/posts/gitpage-analysis.md)  
