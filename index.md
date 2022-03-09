@@ -12,10 +12,10 @@ mail me at jympatel@yahoo.com
 
 ### PROJECTS & POSTS
 
-#### [**view all projects**](/data/programs/programs.md)  
+#### [**view all projects**](/data/more/programs.md)  
 1. [contacts.py](/data/programs/contacts.md)  
 
-#### [**view all posts**](/data/posts/posts.md)  
+#### [**view all posts**](/data/more/posts.md)  
 1. [Installing JetBrains Mono Font in VS Code](/data/posts/Installing-JBMonoText-toVSCode.md)  
 2. [Intro to GitHub Pages](/data/posts/2022-03-06-gitpages.md)  
 3. [Using Google Analysis or Microsoft Clarity with GitHub Pages](/data/posts/gitpage-analysis.md)  

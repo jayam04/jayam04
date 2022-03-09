@@ -10,6 +10,7 @@ to do that download font zip from their [web](https://www.jetbrains.com/lp/mono/
 now as mentioned in their web do as per your system.  
 1. Windows 11 (this method will work better than as mentioned in their web)  
 unzip file and drag fonts files (/fonts/variable/) to settings > personalization > fonts  
+![ScreenSnap](../images/22.0003.png)
 2. MacOS  
 select all font files (/fonts/variable/) and double click on Install Fonts  
 3. Linux  
