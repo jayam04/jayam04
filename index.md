@@ -16,11 +16,11 @@ mail me at jympatel@yahoo.com
 1. [contacts.py](data/programs/contacts.md)  
 
 #### [*view all posts*](data/more/posts.md)  
-1. [Installing JetBrains Mono Font in VS Code](data/posts/Installing-JBMonoText-toVSCode.md)  
-2. [Intro to GitHub Pages](data/posts/2022-03-06-gitpages.md)  
-3. [Using Google Analysis or Microsoft Clarity with GitHub Pages](data/posts/gitpage-analysis.md)  
-4. [Using Custom Font in GitHub Pages](data/posts/jbmono-in-githubpages.md)
-5. [Using Your Internet for Money](data/posts/22_03_19-honeygain.md)  
+1. [Installing JetBrains Mono Font in VS Code](data/posts/22_03_08-Installing-JBMonoText-toVSCode.md)  
+2. [Intro to GitHub Pages](data/posts/22_03_06-gitpages.md)  
+3. [Using Google Analysis or Microsoft Clarity with GitHub Pages](data/posts/22_03_22-gitpage-analysis.md)  
+4. [Using Custom Font in GitHub Pages](../posts/22_03_20-jbmono-in-githubpages.md)
+5. [Using Your Internet for Money with Honeygain](data/posts/22_03_19-honeygain.md)  
 
 
 ### THANKS
@@ -28,4 +28,4 @@ mail me at jympatel@yahoo.com
 thanks to JetBrains team for a great [JetBrains Mono](https://www.jetbrains.com/lp/mono/#how-to-install) font with SIL Open Font License 1.1  
 also thanks to GitHub for [GitHub Pages](https://pages.github.com/) & contributors of [Cyman Theme](https://github.com/pages-themes/cayman) theme.  
   
-CHECK OUT [Installing JetBrains Mono Font in VS Code](data/posts/Installing-JBMonoText-toVSCode.md), [Intro to GitHub Pages](data/posts/2022-03-06-gitpages.md).  
+CHECK OUT [Installing JetBrains Mono Font in VS Code](data/posts/22_03_08-Installing-JBMonoText-toVSCode.md), [Intro to GitHub Pages](data/posts/22_03_06-gitpages.md).  
