@@ -3,6 +3,8 @@ title: Installing JetBrains Mono Font in VS Code
 description: it's easy
 ---
 
+##### 08th March 2022
+
 coming directly to the problem,  
   
 to install jetbrains font to vs code we first need to install it on our os  
