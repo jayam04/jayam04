@@ -45,3 +45,6 @@ THIS IS YOUR MAIN MARKDOWN PAGE
 ### EVEN MORE CAN BE DONE VISIT WHAT WOULD YOU LIKE TO DO
 [Using Google Analysis or Microsoft Clarity with GitHub Pages](gitpage-analysis.md)
 [Using Custom Font in GitHub Pages](jbmono-in-githubpages.md)
+
+## help me be [:) motivated-jym](../more/help.html)
+motivated-jym is only available on pages that took a good amount of work  
