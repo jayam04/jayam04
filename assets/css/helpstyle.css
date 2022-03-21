@@ -16,6 +16,7 @@
 
   body {
     padding: 0;
+    background-color: #BCE9FD;
     margin: 20;
     font-family: "JetBrains Mono", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
@@ -37,4 +38,18 @@
   #descp1 {
     color: blue;
     font-size: 28;
+  }
+
+  #para1 {
+    color: rgb(10, 11, 71);
+    font-size: 16;
+    font-weight: lighter;
+  }
+
+  #form0101 {
+    width: 8cm;
+  }
+
+  #form0102 {
+    width: 8.2cm;
   }
