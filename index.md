@@ -3,7 +3,7 @@ title: Jym Patel
 description: github page
 ---
 
-Hey! I'm @JymPatel, a CS student who is also interested in robotics.
+Hey! I'm @JymPatel, a computer science student who is also interested in robotics.
 I'm here to learn and have fun with coding and everyone here.
 mail me at jympatel@yahoo.com
 
