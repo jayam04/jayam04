@@ -1,5 +1,5 @@
 ---
-title: April Fools
+title: APRIL FOOLS
 description: it's 1st April 2022
 ---
 
