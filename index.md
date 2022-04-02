@@ -19,7 +19,7 @@ mail me at jympatel@yahoo.com
 1. [Installing JetBrains Mono Font in VS Code](data/posts/22_03_08-Installing-JBMonoText-toVSCode.md)  
 2. [Intro to GitHub Pages](data/posts/22_03_06-gitpages.md)  
 3. [Using Google Analysis or Microsoft Clarity with GitHub Pages](data/posts/22_03_22-gitpage-analysis.md)  
-4. [Using Custom Font in GitHub Pages](../posts/22_03_20-jbmono-in-githubpages.md)
+4. [Using Custom Font in GitHub Pages](data/posts/22_03_20-jbmono-in-githubpages.md)
 5. [Using Your Internet for Money with Honeygain](data/posts/22_03_19-honeygain.md)  
 
 
