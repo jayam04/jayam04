@@ -43,7 +43,7 @@ THIS IS YOUR MAIN MARKDOWN PAGE
 ### hashtags are heading in your md file
 ```
 ### EVEN MORE CAN BE DONE VISIT WHAT WOULD YOU LIKE TO DO
-[Using Google Analysis or Microsoft Clarity with GitHub Pages](22_03_22-gitpage-analysis.md)
+[Using Google Analysis or Microsoft Clarity with GitHub Pages](22_03_22-gitpage-analysis.md)  
 [Using Custom Font in GitHub Pages](22_03_20-jbmono-in-githubpages.md)
 
 ## help me be [:) motivated-jym](../more/help.html)
