@@ -7,4 +7,4 @@ mail me at jympatel@yahoo.com
 
 
 credits  
-profile photo : [flat landscape vector](https://www.freepik.com/vectors/flat-landscape) by [*pikisuperstar*](https://www.freepik.com/author/pikisuperstar) - www.freepik.com  
+profile photo : [landscape illustration vector](https://www.freepik.com/vectors/landscape-illustration) by [*rawpixel.com*](https://www.freepik.com/author/rawpixel.com) - www.freepik.com  
