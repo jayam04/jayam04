@@ -7,4 +7,4 @@ mail me at jympatel@yahoo.com
 
 
 credits  
-profile photo : [landscape illustration vector](https://www.freepik.com/free-vector/spring-landscape-scene_12427343.htm#query=landscape%20illustration&position=5&from_view=keyword) by [*pikisuperstar*](https://www.freepik.com/author/pikisuperstar) - www.freepik.com  
+profile photo : [flat design forest landscape](https://www.freepik.com/free-vector/flat-design-forest-landscape_20282258.htm#&position=3&from_view=collections) by [*freepik*](https://www.freepik.com/author/freepik) - www.freepik.com  
